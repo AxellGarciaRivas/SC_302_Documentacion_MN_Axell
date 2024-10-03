@@ -1,2 +1,2 @@
 # SC_302_Documentacion_MN_Axell
-Laboratio githut de documentacion de software
+Laboratio Githut de documentacion de software
